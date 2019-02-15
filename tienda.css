@@ -1,0 +1,50 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .color-green {
+      color: green;
+  }
+
+  .my_header {
+    text-align: right;
+    text-decoration: underline;
+    
+  }
+
+  .borde-interior, .borde-interior-amarillo {
+      border: solid 2px;
+      margin-right: 1em;
+      margin-left: 1em;
+      margin-top: 0.5em;
+      margin-bottom: 1em;
+      
+      
+  }
+
+  .borde-interior-destacado {
+    background-color: yellow;
+  }
+
+  .borde-exterior {
+    border: solid 2px;
+    background-color: dimgrey;
+    text-align: center;
+  }
+
+  .negrita {
+      font-weight: bold;
+      
+  }
+
+  .cursiva {
+      font-style: italic;
+      
+  }
